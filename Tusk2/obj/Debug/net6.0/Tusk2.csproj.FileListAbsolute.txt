@@ -1,0 +1,15 @@
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\Tusk2.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\Tusk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\Tusk2.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\Tusk2.AssemblyInfo.cs
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\Tusk2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\bin\Debug\net6.0\Tusk2.exe
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\bin\Debug\net6.0\Tusk2.deps.json
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\bin\Debug\net6.0\Tusk2.runtimeconfig.json
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\bin\Debug\net6.0\Tusk2.dll
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\bin\Debug\net6.0\Tusk2.pdb
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\Tusk2.dll
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\refint\Tusk2.dll
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\Tusk2.pdb
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\Tusk2.genruntimeconfig.cache
+C:\Users\Макс\Desktop\Examples ( C#)\HomeWork\work1\Tusk2\obj\Debug\net6.0\ref\Tusk2.dll
