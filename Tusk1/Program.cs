@@ -1,29 +1,10 @@
-﻿using System;
- 
-namespace HelloApp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Введите первое число: ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите второе число: ");
-            int num2 = Convert.ToInt32(Console.ReadLine());
- 
-            if(num1 > num2)
-            {
-                Console.WriteLine("Первое число больше второго");
-            }
-            else if (num1 < num2)
-            {
-                Console.WriteLine("Первое число меньше второго");
-            }
-            else
-            {
-                Console.WriteLine("Оба числа равны");
-            }
-            Console.ReadKey();
-        }
-    }
+﻿
+Console.Write("Введи число: ");
+int anyNumber = Convert.ToInt32(Console.ReadLine());
+string anyNumberText = Convert.ToString(anyNumber);
+if (anyNumberText.Length > 2){
+  Console.WriteLine("третья цифра -> " + anyNumberText[2]);
+}
+else {
+  Console.WriteLine("-> третьей цифры нет");
 }
